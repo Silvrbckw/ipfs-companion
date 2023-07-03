@@ -9,6 +9,13 @@
 
 
 
+## [2.22.2](https://github.com/ipfs/ipfs-companion/compare/v2.22.1...v2.22.2) (2023-07-03)
+
+
+### Bug Fixes
+
+* build context in docker-compose.e2e.yml ([76a38f3](https://github.com/ipfs/ipfs-companion/commit/76a38f3cff1a4929dd9a24ab4465f8bf6a8e1bb1))
+
 ## [2.22.1](https://github.com/ipfs/ipfs-companion/compare/v2.22.0...v2.22.1) (2023-02-22)
 
 
